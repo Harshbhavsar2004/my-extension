@@ -1,0 +1,1 @@
+import{j as e,c as r,r as t}from"./client.js";function n(){return e.jsxs("div",{style:{padding:20},children:[e.jsx("h2",{children:"React Sidebar Panel"}),e.jsx("p",{children:"This is running inside the Chrome Side Panel."})]})}r.createRoot(document.getElementById("root")).render(e.jsx(t.StrictMode,{children:e.jsx(n,{})}));
